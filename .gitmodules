@@ -1,0 +1,3 @@
+[submodule "CPPToolLib"]
+	path = CPPToolLib
+	url = git@github.com:Kasimir123/CPPToolLib.git
